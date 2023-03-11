@@ -145,6 +145,15 @@ input{
     bottom: 2.5vh;
 }
 
+.google{
+    position: relative;
+    display: inline-block;
+    height: 2vh;
+    width: 1vw;
+    left: -1.3vw;
+    bottom: -0.3vh;
+}
+
 .login{
     position: relative;
     display: inline-block;
